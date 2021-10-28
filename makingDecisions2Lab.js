@@ -101,8 +101,8 @@ var myFavoriteNumbers = [4,8,12,16,20,24];
 */
 
 //Code Here
-
-
+let someNum = myFavoriteNumbers[4];
+console.log(someNum);
 ////////// PROBLEM 7 //////////
 
 // Subscripting (accessing values using their index) an array can fail. What happens if you subscript to the 7th element, but there are not 7 elements in the array? Let's write some code to check for that. 
